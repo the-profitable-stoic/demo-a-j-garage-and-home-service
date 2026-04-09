@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "A&J Garage and Home Service",
+    "phone": "+16124996117",
+    "category": "garage door installer",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Minneapolis Garage Door Experts",
+      "heroSubline": "Reliable installation and repair services throughout the Twin Cities. We handle Minnesota's toughest weather, guaranteed.",
+      "aboutTitle": "Your Trusted Garage Door Partner in Minneapolis",
+      "aboutText": [
+        "A&J Garage and Home Service started with a simple goal: provide honest, reliable garage door services to our neighbors in Minneapolis. We're a family-owned business, built on hard work and a commitment to doing things right.",
+        "We believe in clear communication, upfront pricing, and quality workmanship. Our team takes pride in every job, whether it's a simple repair or a complete garage door installation. We treat your home like our own.",
+        "We're proud to be a part of the Minneapolis community. We actively support local initiatives and strive to give back whenever we can. When you choose A&J, you're supporting a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand garage door issues can be urgent. Expect prompt, reliable service when you call."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team has years of experience handling all types of garage door problems, big or small."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the best materials from trusted brands to ensure long-lasting performance."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Garage Door Quote Today!",
+      "ctaSubline": "Call us now for fast, reliable service in Minneapolis and the surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Expert garage door installation for new homes and replacements in Minneapolis.",
+        "description": "Installing a new garage door is a significant investment. A&J Garage and Home Service provides professional installation services tailored to your specific needs and budget. We handle everything from selecting the right door to ensuring a perfect, secure fit.\n\nWe work with all types of garage doors, including traditional steel doors, insulated doors for energy efficiency, and custom wood doors to match the unique architecture of Minneapolis homes. We consider the harsh Minnesota climate, recommending doors and hardware that can withstand extreme temperatures and heavy snow loads.\n\nOur installation process includes removing the old door, preparing the opening, installing the new door and all necessary hardware, and testing the door's operation to ensure smooth and reliable performance. We also handle the disposal of the old door, leaving your property clean and tidy. We properly seal and insulate to keep the cold out during the long winters.",
+        "process": [
+          "Step 1: Consultation and Door Selection",
+          "Step 2: Precise Measurements and Preparation",
+          "Step 3: Professional Installation of Door and Hardware",
+          "Step 4: Thorough Testing and Quality Check"
+        ],
+        "benefits": [
+          "Enhance Curb Appeal",
+          "Improve Home Security",
+          "Increase Energy Efficiency",
+          "Add Value to Your Home"
+        ],
+        "faq": [
+          {
+            "question": "How long does garage door installation take?",
+            "answer": "Typically, a standard garage door installation takes between 4-6 hours. However, this can vary depending on the complexity of the installation and the type of door."
+          },
+          {
+            "question": "Do you offer a warranty on your installations?",
+            "answer": "Yes, we offer a comprehensive warranty on all our installations, covering both the door and the installation workmanship. Details of the warranty will be provided during the consultation."
+          },
+          {
+            "question": "Can you install custom garage doors?",
+            "answer": "Absolutely! We specialize in custom garage door installations. We'll work with you to select the perfect door to match your home's style and your personal preferences."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast, reliable garage door repair services throughout Minneapolis and the metro area.",
+        "description": "A malfunctioning garage door can be a major inconvenience and a security risk. A&J Garage and Home Service offers prompt and reliable garage door repair services to get your door back in working order quickly. We handle all types of repairs, from broken springs and cables to malfunctioning openers and damaged panels.\n\nOur experienced technicians arrive equipped with the tools and parts necessary to diagnose and repair most problems on the spot. We understand the unique challenges posed by Minneapolis's harsh winters, including frozen doors, damaged tracks, and opener malfunctions caused by extreme cold. We know how to fix it, and fix it fast.\n\nWe provide transparent pricing and explain the repair process clearly before starting any work. We use high-quality replacement parts to ensure long-lasting repairs and prevent future problems. We'll recommend the best solution for your specific situation, whether it's a simple repair or a complete replacement.",
+        "process": [
+          "Step 1: Thorough Inspection and Diagnosis",
+          "Step 2: Clear Explanation of Repair Options",
+          "Step 3: Professional Repair Using Quality Parts",
+          "Step 4: Testing and Verification of Proper Operation"
+        ],
+        "benefits": [
+          "Restore Security and Functionality",
+          "Prevent Further Damage",
+          "Extend the Life of Your Garage Door",
+          "Avoid Costly Replacements"
+        ],
+        "faq": [
+          {
+            "question": "How much does a typical garage door repair cost?",
+            "answer": "The cost of a garage door repair varies depending on the nature of the problem. We offer free estimates to provide you with an accurate and upfront price."
+          },
+          {
+            "question": "Do you offer emergency repair services?",
+            "answer": "Yes, we offer 24/7 emergency repair services throughout Minneapolis. Call us anytime for immediate assistance."
+          },
+          {
+            "question": "How long will the repair take?",
+            "answer": "Most repairs can be completed within an hour or two. More complex repairs may take longer, but we'll provide you with an estimated timeframe before starting work."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair & Installation",
+        "shortDescription": "Minneapolis's trusted experts for garage door opener repair, replacement, and installation.",
+        "description": "Is your garage door opener noisy, unreliable, or completely unresponsive? A&J Garage and Home Service specializes in garage door opener repair and installation. We work with all major brands and models, and we can quickly diagnose and fix any opener problem.\n\nWe offer a wide range of opener services, including repairing broken motors, replacing worn gears, reprogramming remotes, and installing new safety sensors. We also install new garage door openers, including smart openers with Wi-Fi connectivity and smartphone control. We will ensure proper safety settings to protect your family and property.\n\nWe understand the importance of a properly functioning garage door opener for your convenience and security. Our technicians are trained to handle all types of opener issues, and we use only high-quality replacement parts to ensure long-lasting performance. We will ensure proper safety settings to protect your family and property.",
+        "process": [
+          "Step 1: Diagnose Opener Malfunction",
+          "Step 2: Repair or Replace Components",
+          "Step 3: Install New Opener (if needed)",
+          "Step 4: Program Remotes and Test Safety Features"
+        ],
+        "benefits": [
+          "Restore Convenience and Security",
+          "Prevent Further Damage to Door",
+          "Upgrade to Smart Technology",
+          "Ensure Safe Operation"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door opener needs repair or replacement?",
+            "answer": "Common signs include loud noises, slow operation, intermittent failures, and unresponsive remotes. If you're experiencing these issues, give us a call for a professional assessment."
+          },
+          {
+            "question": "Can you install a smart garage door opener?",
+            "answer": "Yes, we specialize in smart garage door opener installations. We can help you choose the right model for your needs and integrate it with your existing smart home system."
+          },
+          {
+            "question": "Are new garage door openers safer?",
+            "answer": "Newer models have advanced safety features, like rolling codes and automatic reversal systems, which can prevent accidents and improve security."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Expert garage door spring replacement services in Minneapolis – fast and safe.",
+        "description": "Garage door springs are under immense tension and can be dangerous to handle without the proper tools and experience. A&J Garage and Home Service provides safe and reliable garage door spring replacement services throughout Minneapolis. We replace both torsion springs and extension springs, using only high-quality springs designed for the specific weight and size of your door.\n\nBroken springs are a common cause of garage door malfunctions, and it's important to replace them promptly to prevent further damage to the door and opener. Our technicians are trained to safely remove the old springs and install new ones, ensuring proper balance and smooth operation. We work quickly and efficiently to minimize disruption to your daily routine.\n\nWe offer competitive pricing and a warranty on our spring replacements. Don't risk injury by attempting to replace garage door springs yourself – call the professionals at A&J Garage and Home Service for safe and reliable service.",
+        "process": [
+          "Step 1: Assess Spring Type and Door Weight",
+          "Step 2: Safely Remove Broken Springs",
+          "Step 3: Install New, High-Quality Springs",
+          "Step 4: Balance Door and Test Operation"
+        ],
+        "benefits": [
+          "Restore Door Functionality",
+          "Prevent Further Damage",
+          "Ensure Safe Operation",
+          "Avoid DIY Injury"
+        ],
+        "faq": [
+          {
+            "question": "How long do garage door springs last?",
+            "answer": "The lifespan of garage door springs varies depending on usage, but typically ranges from 5-10 years. Regular maintenance can help extend their lifespan."
+          },
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs include a loud snapping sound, a door that is difficult to open or close, or a door that hangs unevenly. Never try to open or close the door if you suspect a broken spring."
+          },
+          {
+            "question": "Are there different types of garage door springs?",
+            "answer": "Yes, the two main types are torsion springs (mounted above the door) and extension springs (mounted on the sides of the door). We are experienced in replacing both types."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Minneapolis experts in garage door cable repair and replacement for smooth, safe operation.",
+        "description": "Garage door cables play a crucial role in the smooth and safe operation of your garage door. If a cable is frayed, broken, or has come off the drum, it can cause the door to become unbalanced or even completely inoperable. A&J Garage and Home Service offers professional garage door cable repair and replacement services in Minneapolis.\n\nOur experienced technicians can quickly diagnose cable problems and provide the necessary repairs. We use high-quality replacement cables that are designed to withstand the stress and strain of daily use. We ensure that the cables are properly tensioned and secured to the drum and bottom brackets, ensuring smooth and safe operation.\n\nAttempting to repair or replace garage door cables yourself can be dangerous. The cables are under high tension and can cause serious injury if not handled properly. Call the professionals at A&J Garage and Home Service for safe and reliable cable repair services.",
+        "process": [
+          "Step 1: Inspect Cables for Damage or Wear",
+          "Step 2: Safely Release Tension on Springs",
+          "Step 3: Replace Damaged Cables with High-Quality Replacements",
+          "Step 4: Properly Tension and Secure Cables"
+        ],
+        "benefits": [
+          "Restore Door Functionality",
+          "Ensure Safe Operation",
+          "Prevent Further Damage",
+          "Avoid DIY Injury"
+        ],
+        "faq": [
+          {
+            "question": "What causes garage door cables to break?",
+            "answer": "Common causes include wear and tear, corrosion, and improper maintenance. Regular lubrication can help extend the lifespan of your cables."
+          },
+          {
+            "question": "How often should I inspect my garage door cables?",
+            "answer": "We recommend inspecting your garage door cables at least twice a year, or more frequently if you use your garage door multiple times a day."
+          },
+          {
+            "question": "Can I replace a garage door cable myself?",
+            "answer": "We strongly advise against attempting to replace garage door cables yourself due to the high tension involved. Call a professional for safe and reliable service."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Keep your garage door running smoothly with our Minneapolis garage door maintenance services.",
+        "description": "Regular maintenance is essential for keeping your garage door operating smoothly and reliably. A&J Garage and Home Service offers comprehensive garage door maintenance services throughout Minneapolis. Our maintenance service includes a thorough inspection of all components, including springs, cables, rollers, hinges, and opener.\n\nWe lubricate all moving parts to reduce friction and prevent wear and tear. We also adjust the spring tension to ensure proper balance and smooth operation. We inspect the safety sensors and make sure they are functioning correctly. We will advise you on any potential issues and recommend necessary repairs before they become major problems.\n\nRegular maintenance can extend the lifespan of your garage door and prevent costly repairs. Contact A&J Garage and Home Service today to schedule your garage door maintenance service.",
+        "process": [
+          "Step 1: Thorough Inspection of All Components",
+          "Step 2: Lubricate Moving Parts",
+          "Step 3: Adjust Spring Tension",
+          "Step 4: Test Safety Sensors"
+        ],
+        "benefits": [
+          "Extend Door Lifespan",
+          "Prevent Costly Repairs",
+          "Ensure Smooth Operation",
+          "Improve Safety"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my garage door serviced?",
+            "answer": "We recommend having your garage door serviced at least once a year, or more frequently if you use your garage door multiple times a day."
+          },
+          {
+            "question": "What is included in a garage door maintenance service?",
+            "answer": "Our maintenance service includes a thorough inspection, lubrication of moving parts, spring tension adjustment, and safety sensor testing."
+          },
+          {
+            "question": "Can I perform some maintenance tasks myself?",
+            "answer": "Yes, you can lubricate the rollers and hinges yourself. However, we recommend leaving spring adjustments and other complex tasks to a professional."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-garage-door-services",
+        "name": "Emergency Garage Door Services",
+        "shortDescription": "24/7 emergency garage door repair services in Minneapolis when you need us most.",
+        "description": "A garage door emergency can happen at any time, leaving your home vulnerable to security risks or trapping your car inside. A&J Garage and Home Service offers 24/7 emergency garage door repair services throughout Minneapolis. We understand the urgency of these situations and respond quickly to get your door back in working order.\n\nWhether it's a broken spring, a malfunctioning opener, or a door that's been damaged in an accident, our experienced technicians are available around the clock to provide prompt and reliable repairs. We arrive equipped with the tools and parts necessary to handle most emergencies on the spot. We prioritize safety and security, ensuring that your home is protected.\n\nDon't hesitate to call A&J Garage and Home Service anytime, day or night, for emergency garage door services. We're here to help you when you need us most, especially during the brutal winter months when a broken garage door can be a real crisis.",
+        "process": [
+          "Step 1: Immediate Response to Your Call",
+          "Step 2: Rapid On-Site Assessment",
+          "Step 3: Efficient Repair or Temporary Solution",
+          "Step 4: Ensure Security and Safety"
+        ],
+        "benefits": [
+          "24/7 Availability",
+          "Fast Response Times",
+          "Expert Repairs",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a garage door emergency?",
+            "answer": "A garage door emergency includes any situation that compromises your home's security, prevents you from accessing your garage, or poses a safety risk."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls within 1-2 hours, depending on your location and our current workload."
+          },
+          {
+            "question": "What if you can't fix the problem immediately?",
+            "answer": "If we can't fix the problem immediately, we'll provide a temporary solution to secure your garage and schedule a follow-up appointment for a permanent repair."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Paul",
+        "slug": "st-paul-mn",
+        "state": "MN",
+        "content": "A&J Garage and Home Service is proud to offer our expert garage door installation and repair services to the residents of St. Paul, Minnesota. From the historic Victorian-era homes on Summit Avenue to the charming neighborhoods throughout the city, we understand the unique architectural styles and needs of St. Paul homeowners. Our experienced technicians are equipped to handle any garage door issue, from replacing broken springs to installing new, energy-efficient doors that can withstand the extreme cold winters.\n\nWe know that a functioning garage door is essential for the security and convenience of your home. That's why we offer prompt and reliable service, ensuring that your garage door is operating smoothly and safely. Whether you need a simple repair or a complete garage door replacement, A&J Garage and Home Service is here to provide you with top-quality workmanship and exceptional customer service.",
+        "localContext": "We understand the architectural diversity of St. Paul, from historic Victorian homes to modern residences, and tailor our services accordingly. We are especially aware of the need for durable doors that can withstand the extreme cold winters.",
+        "nearbyAreas": [
+          "Minneapolis",
+          "West St. Paul",
+          "Roseville"
+        ]
+      },
+      {
+        "city": "Plymouth",
+        "slug": "plymouth-mn",
+        "state": "MN",
+        "content": "A&J Garage and Home Service is dedicated to providing Plymouth, Minnesota residents with reliable and professional garage door services. With a large stock of 1970s and 80s homes, we understand the common garage door issues that homeowners face in this area. Our team has extensive experience working on a wide range of garage door styles and brands, ensuring that we can efficiently diagnose and resolve any problem.\n\nWe're committed to providing top-notch service to Plymouth families. From replacing worn-out garage door openers to installing insulated doors that can help reduce energy costs during the frigid Minnesota winters, we're here to help. We pride ourselves on our prompt response times and our commitment to customer satisfaction.",
+        "localContext": "Knowing the prevalence of 1970s-80s homes in Plymouth, we have the experience to address the specific garage door needs of these properties. We also understand the importance of energy efficiency during the extreme cold winters.",
+        "nearbyAreas": [
+          "Maple Grove",
+          "Minnetonka",
+          "Wayzata"
+        ]
+      },
+      {
+        "city": "Eden Prairie",
+        "slug": "eden-prairie-mn",
+        "state": "MN",
+        "content": "A&J Garage and Home Service proudly serves the residents of Eden Prairie, Minnesota. Known for its planned developments from the 1980s and 90s, Eden Prairie features a variety of home styles, each with unique garage door requirements. We offer a comprehensive range of services, including garage door repair, installation, and maintenance, to ensure that your garage door is functioning optimally.\n\nWe understand that a malfunctioning garage door can be a major inconvenience, so we strive to provide prompt and reliable service to our Eden Prairie customers. Whether you need a new garage door opener, a spring replacement, or a complete garage door installation, our team of experienced technicians is here to help. We're committed to providing quality workmanship and exceptional customer service, ensuring your satisfaction.",
+        "localContext": "With many homes in Eden Prairie originating from 1980s-90s planned developments, we're familiar with common garage door styles and issues in the area. Energy-efficient solutions are a priority due to extreme cold winters.",
+        "nearbyAreas": [
+          "Minnetonka",
+          "Hopkins",
+          "Chanhassen"
+        ]
+      },
+      {
+        "city": "Maple Grove",
+        "slug": "maple-grove-mn",
+        "state": "MN",
+        "content": "A&J Garage and Home Service is your trusted provider of garage door services in Maple Grove, Minnesota. With its abundance of family-friendly developments from the 1990s and 2000s, Maple Grove is a community we're proud to serve. We offer a wide range of garage door solutions to meet the needs of Maple Grove homeowners, including repair, installation, and maintenance services.\n\nWe understand that a properly functioning garage door is essential for the security and convenience of your home. That's why we're committed to providing prompt and reliable service to our Maple Grove customers. From fixing broken springs to installing new, energy-efficient garage doors, we're here to help you keep your home safe and secure. We're also aware of energy efficiency needs due to extreme cold winters.",
+        "localContext": "Serving a community with many 1990s-2000s family developments, we understand the common garage door styles and needs of Maple Grove homeowners. We also focus on providing durable solutions to withstand extreme cold winters.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Osseo",
+          "Rogers"
+        ]
+      },
+      {
+        "city": "Bloomington",
+        "slug": "bloomington-mn",
+        "state": "MN",
+        "content": "A&J Garage and Home Service is pleased to offer our professional garage door services to the residents of Bloomington, Minnesota. Known for its established ranch homes from the 1960s and 70s, Bloomington presents unique garage door challenges and opportunities. Our experienced technicians are well-equipped to handle any garage door issue, from repairing older models to installing modern, energy-efficient doors.\n\nWe understand the importance of a reliable and secure garage door for your home. That's why we offer prompt and dependable service, ensuring that your garage door is operating smoothly and safely. Whether you need a simple repair, a new opener, or a complete garage door replacement, A&J Garage and Home Service is here to provide you with top-quality workmanship and exceptional customer service. We know the winters are brutal too!",
+        "localContext": "We specialize in servicing the established ranch homes of Bloomington, many of which date back to the 1960s and 70s. We are adept at addressing the unique garage door needs of these homes, especially given the extreme cold winters.",
+        "nearbyAreas": [
+          "Richfield",
+          "Edina",
+          "Eagan"
+        ]
+      },
+      {
+        "city": "Minnetonka",
+        "slug": "minnetonka-mn",
+        "state": "MN",
+        "content": "A&J Garage and Home Service is proud to serve the residents of Minnetonka, Minnesota with top-notch garage door services. Minnetonka features a mix of housing styles and ages, requiring a versatile approach to garage door repair and installation. We are committed to providing reliable and efficient service to ensure your garage door is functioning safely and smoothly.\n\nWhether you need a simple repair, a new garage door opener, or a complete garage door replacement, our experienced technicians are here to help. We offer a wide range of services to meet your needs, and we are dedicated to providing exceptional customer service. We understand the importance of a functional garage door, especially during the extreme cold winters.",
+        "localContext": "We understand the diverse housing styles in Minnetonka and provide tailored garage door solutions for each. We also prioritize energy-efficient options to combat the extreme cold winters.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Eden Prairie",
+          "Hopkins"
+        ]
+      },
+      {
+        "city": "Edina",
+        "slug": "edina-mn",
+        "state": "MN",
+        "content": "A&J Garage and Home Service is committed to providing exceptional garage door services to the residents of Edina, Minnesota. Edina is known for its well-maintained homes and discerning homeowners, and we strive to exceed their expectations with our quality workmanship and attention to detail. We offer a full range of garage door services, including repair, installation, and maintenance.\n\nWe understand that a malfunctioning garage door can be a major inconvenience, so we offer prompt and reliable service to our Edina customers. Whether you need a spring replacement, a new opener, or a complete garage door installation, our team is here to help. We are dedicated to ensuring your satisfaction and providing you with peace of mind, especially during the extreme cold winters.",
+        "localContext": "We cater to the discerning homeowners of Edina with high-quality garage door solutions and meticulous attention to detail. We are also aware of the need for durable doors that can withstand the extreme cold winters.",
+        "nearbyAreas": [
+          "Bloomington",
+          "Richfield",
+          "St. Louis Park"
+        ]
+      },
+      {
+        "city": "Lakeville",
+        "slug": "lakeville-mn",
+        "state": "MN",
+        "content": "A&J Garage and Home Service is pleased to extend our garage door expertise to the residents of Lakeville, Minnesota. Lakeville features a mix of established and newer homes, creating a diverse range of garage door needs. We offer comprehensive services, including repair, installation, and maintenance, to ensure that your garage door operates flawlessly.\n\nWe understand the importance of a secure and reliable garage door for your home and family. That's why we are committed to providing prompt and professional service to our Lakeville customers. Whether you require a minor repair or a complete garage door overhaul, our team is equipped to handle the job efficiently and effectively. We also recognize the need for durable doors to withstand the extreme cold winters.",
+        "localContext": "We provide versatile garage door solutions to cater to the diverse housing styles in Lakeville, from established homes to newer constructions. We also prioritize garage door solutions that can withstand extreme cold winters.",
+        "nearbyAreas": [
+          "Burnsville",
+          "Apple Valley",
+          "Farmington"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "A&J Garage came out the same day I called when my garage door spring broke. The technician, Mike, was professional and efficient. He explained everything clearly and replaced the spring quickly. Great service!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener was making a terrible grinding noise. A&J Garage diagnosed the problem quickly and replaced a worn gear. The repair was done efficiently, and the door is now working quietly. Minor complaint, they were about 30 minutes late for the appt.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "We recently had A&J Garage install a new insulated garage door. The installation team was professional and courteous. They did an excellent job and cleaned up everything afterwards. Our garage is noticeably warmer now!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Garage Door Cable Repair",
+        "text": "One of my garage door cables snapped, and I couldn't get the door to close. A&J Garage responded quickly and fixed the problem within an hour. The technician was knowledgeable and friendly. Highly recommended!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Garage Door Maintenance",
+        "text": "I had A&J Garage perform a maintenance check on my garage door. The technician lubricated all the moving parts and adjusted the spring tension. The door is now running much smoother. Good preventative service.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Emergency Garage Door Repair",
+        "text": "Our garage door wouldn't close on a Friday night, and we were worried about security. A&J Garage came out within an hour and fixed the problem. Amazing response time and excellent service.",
+        "date": "2025-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "A&J Garage: Minneapolis Garage Door Experts",
+        "description": "Reliable garage door repair & installation in Minneapolis. Fast service, upfront pricing. Call today!"
+      },
+      "about": {
+        "title": "About A&J Garage: Minneapolis Garage Door",
+        "description": "Learn about A&J Garage and Home Service, your trusted local garage door contractor in Minneapolis. Family-owned and community-focused."
+      },
+      "services": {
+        "title": "A&J Garage: Minneapolis Garage Door Services",
+        "description": "Comprehensive garage door services in Minneapolis. Installation, repair, openers, springs, cables, and maintenance."
+      },
+      "contact": {
+        "title": "Contact A&J Garage: Minneapolis Garage Door",
+        "description": "Contact A&J Garage and Home Service for fast and reliable garage door services in Minneapolis. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "A&J Garage: Customer Reviews & Testimonials",
+        "description": "Read what our customers are saying about A&J Garage and Home Service. Trusted garage door experts in Minneapolis."
+      },
+      "service-areas": {
+        "title": "A&J Garage: Service Areas | Minneapolis Metro",
+        "description": "A&J Garage provides garage door services throughout the Minneapolis metro area. See our service area map and contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp",
+      "emergency-garage-door-services": "/images/service-emergency-garage-door-services.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-garage-door-services": {
+        "src": "/images/service-emergency-garage-door-services.webp",
+        "srcset": "/images/service-emergency-garage-door-services-400w.webp 400w, /images/service-emergency-garage-door-services-800w.webp 800w, /images/service-emergency-garage-door-services-1200w.webp 1200w, /images/service-emergency-garage-door-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
